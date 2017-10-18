@@ -2,7 +2,7 @@
 """
 Created on Sat Sep 30 23:28:53 2017
 
-@author: ningshangyi
+@author: ningshangyi/sqrpi
 """
 
 import nltk
